@@ -50,8 +50,6 @@ const items = ref([
 
 const listData = ref(items.value)
 
-const itemsCopies = [...items.value]
-
 const editValue = ref('')
 const editableRow = ref({})
 
