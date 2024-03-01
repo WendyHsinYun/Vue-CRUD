@@ -2,7 +2,7 @@
 
 Demo: https://fb8ae8ab.vue-crud.pages.dev/
 
-https://github.com/WendyHsinYun/Vue-CRUD/assets/124034141/8df26557-52a4-40ed-be0d-1153dfaa9863
+https://github.com/WendyHsinYun/Vue-CRUD/assets/124034141/68a83623-39ae-4a7d-bb08-bc74539c1531
 
 ## Description:
 
