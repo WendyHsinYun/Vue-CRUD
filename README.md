@@ -1,6 +1,6 @@
 # vue-crud
 
-Demo: [https://fb8ae8ab.vue-crud.pages.dev/](https://fb8ae8ab.vue-crud.pages.dev/)
+Demo: [Demo](https://fb8ae8ab.vue-crud.pages.dev/)
  
 Medium: [A Vue CRUD（增刪查改）Practice with Search, Debounce functions](https://medium.com/@wendyhsinyun/a-vue-crud-%E5%A2%9E%E5%88%AA%E6%9F%A5%E6%94%B9-practice-with-search-debounce-functions-496cf2919adf)
 
