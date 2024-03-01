@@ -1,6 +1,7 @@
 # vue-crud
 
 Demo: https://fb8ae8ab.vue-crud.pages.dev/
+Medium: https://medium.com/@wendyhsinyun/a-vue-crud-%E5%A2%9E%E5%88%AA%E6%9F%A5%E6%94%B9-practice-with-search-debounce-functions-496cf2919adf
 
 https://github.com/WendyHsinYun/Vue-CRUD/assets/124034141/68a83623-39ae-4a7d-bb08-bc74539c1531
 
